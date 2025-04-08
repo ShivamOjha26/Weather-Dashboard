@@ -53,7 +53,6 @@ Free tier of OpenWeatherMap allows up to **60 API calls per minute**
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ShivamOjha26/Weather-Dashboard.git
-   cd Weather-Dashboard
 2. **Install dependencies**
    ```bash
    npm install
@@ -70,18 +69,18 @@ The project is deployed on **Vercel**.
 
 ### 🔧 Deployment Steps
 
-1. **Push your project to GitHub**
+1. **Push the project to GitHub**
 
 2. **Go to [vercel.com](https://vercel.com) and log in with GitHub**
 
-3. **Import your GitHub repository**
+3. **Import the GitHub repository**
 
 4. **Configure the build settings (if not auto-detected):**
    - **Framework Preset:** Create React App
    - **Build Command:** `npm run build`
    - **Output Directory:** `build`
 
-5. Deploy & get your live link! 🎉
+5. Deploy & get the live link! 🎉
 The app will be accessible at a URL like: https://your-project-name-mu-puce.vercel.app
 
 ## 🤓 Learnings
