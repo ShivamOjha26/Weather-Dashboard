@@ -44,7 +44,7 @@ A responsive and animated React-based weather app that lets users search for any
 
 
 📌 **Note:**  
-Free tier of OpenWeatherMap allows up to **60 API calls per minute**. Make sure to handle rate limits and errors gracefully.
+Free tier of OpenWeatherMap allows up to **60 API calls per minute**
 
 ---
 
