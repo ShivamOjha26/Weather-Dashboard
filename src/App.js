@@ -4,7 +4,7 @@ import SearchBar from './components/SearchBar';
 import WeatherCard from './components/WeatherCard';
 import Forecast from './components/Forecast';
 import { motion } from 'framer-motion';
-import './style.css';
+import './styles.css';
 
 function App() {
   const [weatherData, setWeatherData] = useState(null);
