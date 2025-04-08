@@ -81,7 +81,7 @@ The project is deployed on **Vercel**.
    - **Output Directory:** `build`
 
 5. Deploy & get the live link! 🎉
-The app will be accessible at a URL like: https://your-project-name-mu-puce.vercel.app
+The app will be accessible at a URL like: https://project-name-mu-puce.vercel.app
 
 ## 🤓 Learnings
 
