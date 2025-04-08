@@ -2,7 +2,7 @@
 
 A responsive and animated React-based weather app that lets users search for any city and view real-time weather conditions along with a 5-day forecast.
 
-🚀 Live App: [https://weather-dashboard.vercel.app](https://weather-dashboard-mu-puce.vercel.app/)  
+🚀 Live App: [https://weather-dashboard-mu-puce.vercel.app](https://weather-dashboard-mu-puce.vercel.app/)  
 📂 GitHub Repository: [https://github.com/ShivamOjha26/Weather-Dashboard](https://github.com/ShivamOjha26/Weather-Dashboard)
 
 ---
